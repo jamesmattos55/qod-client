@@ -1,4 +1,7 @@
 <resources>
   <string name="app_name">Random Quotes</string>
   <string name="base_url">http://10.0.2.2:8080/rest/qod/</string>
+  <string name="client_id">912895974417-bdo24a4dlee5s3nj9h2p0irrobi3fap1.apps.googleusercontent.com</string>
+  <string name="sign_in_error">Unable to login with provided credentials</string>
+  <string name="authorization_value_format">Bearer %s</string>
 </resources>
